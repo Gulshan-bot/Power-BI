@@ -14,3 +14,5 @@ Zepto Sales Analytics | Excel, Power BI
 
 
 •	Created automated stock alerts and inventory optimization visualizations that identified 15%+ revenue improvement opportunities through dynamic pricing and stock management
+
+Example : 
