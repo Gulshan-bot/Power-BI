@@ -1,4 +1,4 @@
-Zepto Sales Analytics | Excel, Power BI    
+Sales & Inventory Analytics Dashboard - Zepto Sales Analytics | Excel, Power BI    
 
 •	Developed an interactive 3-page Power BI dashboard analyzing 3,730+ products with advanced DAX calculations, resulting in actionable insights on revenue optimization and inventory management.
 
